@@ -1,0 +1,98 @@
+<html>
+  <style>
+    body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    background-repeat: space;
+}
+
+h1{
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+}
+
+a{
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    width: 90px;
+    height: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+    text-decoration: none;
+    color: red;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+.h11{
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+}
+
+.okak{
+    height: 100px;
+    width: 100%;
+}
+
+p{
+    font-family: wingdings;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+  </style>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="https://glguy.com">Главная</a>
+    </header>
+    <main>
+      <div>
+      <h1>glowstone</h1>
+      </div>
+      <ul>
+        <li>люблю гулять</li>
+        <li>УРЫЫЫЫЫЫЫ ДЕЛЬТАРУН 3&4 ГЛАВЫ ВЫШЛИИИИ </li>
+        <li>делаю сайты</li>
+      </ul>
+      <div>
+      <h1 class="h11">О моих проектах</h1>
+      </div>
+      <ul>
+        <li>Minecraft</li>
+          <ul>
+            <li>Undertale Map(в разработке) </li>
+            <img src="https://i.ibb.co/TxWMZj89/maxresdefault.jpg" alt="maxresdefault" border="0">
+            <li>The Secret Passage(в разработке)</li>
+          </ul>
+        <li>Сайты</li>
+          <ul>
+            <li>rFR GHJQNB 3&4 UKFDS lTKMNFHEY!</li>
+          </ul>
+      </ul>
+    </main>
+    <footer>
+<img class="okak" src="https://i.ibb.co/39WyyLyG/AQAEr-UFXti-OFW8-Pq-AB6-KTd0-T7-T7-OTaosoli-S2p45-V-0-EPy-Et-BHcdiqm2-RI7-Nr-In-Aem-Oyz-Bg-QFSCYt-UV.jpg" alt="AQAEr-UFXti-OFW8-Pq-AB6-KTd0-T7-T7-OTaosoli-S2p45-V-0-EPy-Et-BHcdiqm2-RI7-Nr-In-Aem-Oyz-Bg-QFSCYt-UV" border="0">
+    </footer>
+  </body>
+  <p> okak </p>
+</html>
