@@ -1,0 +1,83 @@
+<html>
+  <style>
+    
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    background-repeat: space;
+}
+
+h1{
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+}
+
+a{
+    background-image: linear-gradient(to bottom, orangered, orange, yellow);
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+    text-decoration: none;
+    color: red;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+.okak{
+    height: 100px;
+    width: 100%;
+}
+
+.OKKAK{
+    font-family: wingdings;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+  </style>
+  <head>
+    <title>glowguy</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="aboutglguy.html">butts</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="glguyinfo.html"><b>полезная информация</b></a>
+      </nav>
+      <h1>Web-sites<br/> developer</h1>
+      <h6>govno del</h6>
+      <h2>Что я умею?</h2>
+      <p>разметка и стилизация</p>
+      <p>вёрстка сетчатых макетов</p>
+      <p>двумерные анимации и интерактивные элементы</p>
+      <p>мультимедиа на сайте</p>
+    </main>
+    <footer>
+      <img class="okak" src="https://i.ibb.co/39WyyLyG/AQAEr-UFXti-OFW8-Pq-AB6-KTd0-T7-T7-OTaosoli-S2p45-V-0-EPy-Et-BHcdiqm2-RI7-Nr-In-Aem-Oyz-Bg-QFSCYt-UV.jpg" alt="AQAEr-UFXti-OFW8-Pq-AB6-KTd0-T7-T7-OTaosoli-S2p45-V-0-EPy-Et-BHcdiqm2-RI7-Nr-In-Aem-Oyz-Bg-QFSCYt-UV" border="0">
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+      <p class="OKKAK"> okak </p>
+    </footer>
+  </body>
+</html>
